@@ -1,0 +1,102 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/react-trans.png",
+      "title": "React for UI Development"
+     
+    },
+    {
+      "id": "2",
+      "src": "./img/redux.png",
+      "title": "Redux for State Management"
+      
+    },
+    {
+      "id": "3",
+      "src": "./img/drf.png",
+      "title": "Django Rest Framework for API Development"
+      
+    },
+    {
+      "id": "4",
+      "src": "./img/fastapi.jpg",
+      "title": "FastAPI"
+     
+    },
+    {
+      "id": "5",
+      "src": "./img/express-node.png",
+      "title": "Node-Express"
+      
+    },
+    {
+      "id": "6",
+      "src": "./img/mysql-postgres.png",
+      "title": "MySQL and PostgreSQL for Database Management"
+      
+    },
+    {
+      "id": "7",
+      "src": "./img/Docker-Logo.png",
+      "title": "Docker"
+     
+    },
+    {
+      "id": "8",
+      "src": "./img/Amazon_Web_Services-Logo.wine.png",
+      "title": "Deployment on AWS"
+     
+    }
+  ],
+
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/backend-project.png",
+      "title": "3 in one app",
+      "description": "Sales Management System, Inventory Management System, HR Management System",
+      "link": "https://mnoproa.pythonanywhere.com/"
+    },
+    {
+      "id": "2",
+      "src": "./img/jta.png",
+      "title": "Shift Tracker, Absence Tracker, Expense Tracker, Dashboard",
+      "description": "Shift Tracker, Absence Tracker, Expense Tracker, Dashboard",
+      "link": "https://main.dcbanxswb8ju1.amplifyapp.com/"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
