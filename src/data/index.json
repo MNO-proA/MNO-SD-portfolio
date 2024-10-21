@@ -67,10 +67,10 @@
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/quill.png",
+      "title": "MagicQuill",
+      "description": "Create engaging content for Twitter, Instagram, and LinkedIn with cutting-edge AI technology.",
+      "link": "https://magicquill-ai.netlify.app/"
     }
   ],
   "testimonial": [
@@ -94,7 +94,7 @@
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Create engaging content for Twitter, Instagram, and LinkedIn with cutting-edge AI technology.",
       "author_name": "Kathryn Murphy",
       "author_designation": "McDonald's"
     }
